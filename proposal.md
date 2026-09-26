@@ -1,6 +1,7 @@
 # [Proposal title]
 
 **Prepared for:** [Government department or agency]
+
 **Policy context:** [The current policy decision this proposal addresses]
 
 ## Executive Summary
